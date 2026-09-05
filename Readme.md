@@ -22,6 +22,22 @@ The current system recognizes five Bharatanatyam mudras: **Pataka, Musti, Sikhar
 
 ---
 
+## 📂 Dataset
+
+The Bharatanatyam Mudras dataset contains **2,000 images** across 5 mudra classes, with **400 images per class**:
+
+- Pataka
+- Musti
+- Sikhara
+- Simhamukha
+- Trisula
+
+The dataset is publicly available on Kaggle:
+
+👉 **[Bharatanatyam Mudras Dataset](https://www.kaggle.com/datasets/athulyas1206/bharatanatyam-mudras)**
+
+---
+
 ## 📂 Files
 
 | File | Description |
